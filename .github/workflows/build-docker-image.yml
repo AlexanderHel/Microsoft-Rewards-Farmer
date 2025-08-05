@@ -32,5 +32,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: juangra87/ms-farmer:latest
+          tags: alexanderhelzz/ms-farmer:latest
           platforms: linux/amd64
